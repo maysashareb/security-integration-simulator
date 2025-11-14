@@ -46,5 +46,6 @@ src/
 5. View results in the console and in scan-results.csv
 
 ## Author
-Maysa Abu Shareb
-Security Engineering • Java Developer
+## Maysa Abu Shareb
+Security Engineering 
+Java Developer
