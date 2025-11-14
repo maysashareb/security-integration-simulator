@@ -40,9 +40,10 @@ src/
 2. Clone the repository:  
    ```bash
    git clone https://github.com/maysashareb/security-integration-simulator.git
-3.Open the project in IntelliJ IDEA
-4.Run Main.java
-5.View results in the console and in scan-results.csv
+   
+3. Open the project in IntelliJ IDEA
+4. Run Main.java
+5. View results in the console and in scan-results.csv
 
 ## Author
 Maysa Abu Shareb
