@@ -1,0 +1,5 @@
+name,type,endpoint,success,issues,severity,riskScore,durationMs,summary
+AWS Prod,CSPM,https://api.aws.example.com,true,3,HIGH,95,615,Detected 3 potential misconfigurations.
+Azure Dev,CSPM,https://api.azure.example.com,true,2,HIGH,80,1717,Detected 2 potential misconfigurations.
+Okta Tenant,SSPM,https://api.okta.example.com,true,4,CRITICAL,100,1130,Detected 4 potential misconfigurations.
+On-Prem AD,OSPM,ldaps://ad.internal.local,true,0,LOW,10,2618,No misconfigurations detected.
