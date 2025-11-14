@@ -31,8 +31,8 @@ src/
 ├── ScanTask.java
 └── ScannerEngine.java
 
-
 ---
+
 
 ## ▶️ 3. How to Run
 
@@ -41,9 +41,9 @@ src/
    ```bash
    git clone https://github.com/maysashareb/security-integration-simulator.git
 3.Open the project in IntelliJ IDEA
-Run Main.java
-View results in the console and in scan-results.csv
+4.Run Main.java
+5.View results in the console and in scan-results.csv
 
-Author
+## Author
 Maysa Abu Shareb
 Security Engineering • Java Developer
